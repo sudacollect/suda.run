@@ -1,3 +1,7 @@
-## suda.run
+## install suda
 
-https://suda.run
+For your Laravel project
+
+```
+composer require gtdxyz/suda
+```
