@@ -1,20 +1,18 @@
 ## Laravel suda
 
-Install steps
-
-###1 Laravel
+🏖️1 Laravel
 ```
 composer create-project laravel/laravel example-app
 
 cd example-app
 ```
 
-###2 Suda
+🏖️2 Suda
 ```
 composer require gtdxyz/suda
 ```
 
-###3 Database
+🏖️3 Database
 
 ```
 // edit .env
@@ -28,13 +26,13 @@ DB_PASSWORD=your-database-pass
 
 ```
 
-###4 Install
+🏖️4 Install
 
 ```
 php artisan suda:install
 ```
 
-###5 Auth
+🏖️5 Auth
 
 ```
 // edit config/auth.php
@@ -52,7 +50,7 @@ php artisan suda:install
 ],
 ```
 
-###6 open your-domain/admin
+🏖️6 open your-domain/admin
 
 ```
 admin@suda.run
